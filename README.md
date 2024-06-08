@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Música: Um Minuto de Desespero
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um minuto de música criada pelo **[Boomy](https://boomy.com/)** que é uma plataforma de inteligência artificial que permite aos usuários criar música original de maneira rápida e fácil.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+**[Boomy](https://boomy.com/)** para criar música;
+**[Camtasia](https://www.techsmith.com/camtasia/)** para editar vídeo;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisei sobre plataformas de geração de música e no exemplo fornecida pela **[DIO](https://web.dio.me/home)** já havia a dica do **[Boomy](https://boomy.com/)**. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Criado a música para um clipe de um jogo antigo chamado **[General Chaos](https://playclassic.games/games/strategy-genesis-games-online/general-chaos/play/)**
+
+Clipe: [Correndo no Caos](https://www.youtube.com/watch?v=KOkoHHNZN18)**
+
+Música no **[Boomy](https://boomy.com/)**: [Correndo no Caos](hhttps://boomy.com/s/19733070)**
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Interessante saber que existe a facilidade de criar músicas com IA generativa. Acho que é uma boa para criar músicas para jogos e utilizar de fundo em algum vídeo.
 
-### Exemplos e Insigths
+Algumas considerações que o **[ChatGPT](https://chat.openai.com)** apresentou achei interessante.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Potencial e Desafios:
 
-## Links Interessantes
+Democratização da Música: Boomy está ajudando a democratizar a criação musical, permitindo que mais pessoas participem do processo de criação sem a necessidade de habilidades avançadas.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Qualidade e Originalidade: Manter a qualidade e originalidade das composições geradas é um desafio contínuo, especialmente em comparação com a música criada por compositores humanos.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Monetização e Direitos Autorais: Gerenciar os direitos e a monetização das músicas geradas por IA é uma área complexa que ainda está sendo desenvolvida.
