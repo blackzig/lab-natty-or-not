@@ -4,8 +4,8 @@
 Um minuto de música criada pelo **[Boomy](https://boomy.com/)** que é uma plataforma de inteligência artificial que permite aos usuários criar música original de maneira rápida e fácil.
 
 ## 🤖 Tecnologias Utilizadas
-**[Boomy](https://boomy.com/)** para criar música;
-**[Camtasia](https://www.techsmith.com/camtasia/)** para editar vídeo;
+- **[Boomy](https://boomy.com/)** para criar música;
+- **[Camtasia](https://www.techsmith.com/camtasia/)** para editar vídeo;
 
 ## 🧐 Processo de Criação
 Pesquisei sobre plataformas de geração de música e no exemplo fornecida pela **[DIO](https://web.dio.me/home)** já havia a dica do **[Boomy](https://boomy.com/)**. 
